@@ -1,5 +1,14 @@
 
 
+## [0.1.0] - 2021-04-25
+### Added
+- file  test.php
+
+## [0.0.2] - 2021-04-25
+### Fixed
+- error in index.php
+
 ## [0.0.1] - 2021-04-25
 ### Added
 - gitignore and changelog 
+- index.php 
